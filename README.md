@@ -4,7 +4,7 @@ Senior Full Stack Developer by day, solo game dev by night. This GitHub is my pl
 
 ### About Me
 
-- 📍 Surabaya, Indonesia
+- 📍 Indonesia
 - 💼 Building scalable web/mobile apps with .NET, C#, Angular, Golang, Azure/AWS
 - 🎮 Passionate about game dev: Creating lightweight, efficient tools for indie games
 - 🔗 [LinkedIn](https://linkedin.com/in/edwinsyarief) | [Portfolio](https://edwinsyarief.github.io)
