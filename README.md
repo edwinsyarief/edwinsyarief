@@ -27,4 +27,3 @@ Senior Full Stack Developer by day, solo game dev by night. This GitHub is my pl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsyarief&layout=compact&theme=dracula&hide_border=true)
 
-Open to collabs on Golang game stuff—hit me up! 🚀
