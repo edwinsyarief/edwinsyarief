@@ -10,8 +10,8 @@ Senior Full Stack Developer by day, solo game dev by night. This GitHub is my pl
 
 ### Skills
 - **Languages/Frameworks**: Golang, .NET/C#, PHP, Node.js, Java
-- **Frontend**: Angular, React, Vue, TypeScript
-- **Mobile**: Xamarin, Flutter, MAUI, React Native
+- **Frontend**: Angular, React, Vue, Svelte
+- **Mobile**: Xamarin, MAUI, React Native
 - **Cloud/Infra**: Azure, AWS, Docker, CI/CD
 - **Realtime**: SignalR, WebRTC, SFU
 - **Databases**: SQL Server, PostgreSQL, MongoDB
