@@ -1,6 +1,6 @@
 # Hi, I'm Edwin Syarief 👋
 
-Senior Full Stack Developer by day, solo game dev by night. This GitHub is my playground for open-source Golang projects—focusing on game engines and tools like ECS systems and 2D rendering.
+Senior Full Stack Developer by day, solo game dev by night. This GitHub is my playground for open-source Golang projects, focusing on game engines and tools such as ECS systems and 2D rendering.
 
 ### About Me
 - 📍 Surabaya, Indonesia
