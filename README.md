@@ -21,9 +21,9 @@ Senior Full Stack Developer by day, solo game dev by night. This GitHub is my pl
 
 ### Featured Projects
 
-- **[lazyecs](https://github.com/edwinsyarief/lazyecs)**: High-performance, archetype-based, and easy-to-use Entity Component System (ECS) library for Go.
-- **[katsu2d](https://github.com/edwinsyarief/katsu2d)**: 2D game framework in Golang built on top of [Ebitengine](https://ebitengine.org/).
-- **[assetpacker](https://github.com/edwinsyarief/assetpacker)**: A powerful tool designed to streamline the packaging and management of game assets. It provides a seamless workflow for developers, ensuring that assets are efficiently packed and ready for use in the game.
+- **[Teishoku](https://github.com/edwinsyarief/teishoku)**: High-performance, archetype-based, and easy-to-use Entity Component System (ECS) library for Go.
+- **[Katsu2d](https://github.com/edwinsyarief/katsu2d)**: 2D game framework in Golang built on top of [Ebitengine](https://ebitengine.org/).
+- **[Asset Packer](https://github.com/edwinsyarief/assetpacker)**: A powerful tool designed to streamline the packaging and management of game assets. It provides a seamless workflow for developers, ensuring that assets are efficiently packed and ready for use in the game.
 
 ### Stats
 
