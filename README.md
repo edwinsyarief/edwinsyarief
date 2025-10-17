@@ -27,6 +27,6 @@ Senior Full Stack Developer by day, solo game dev by night. This GitHub is my pl
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwinsyarief&show_icons=true&theme=dracula&hide_border=true&hide=stars,commits,prs,issues,contribs)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwinsyarief&show_icons=true&theme=dracula&hide_border=true&hide=stars,commits,prs,issues,contribs)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinsyarief&layout=compact&theme=dracula&hide_border=true)
 
