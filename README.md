@@ -5,13 +5,13 @@ Senior Full Stack Developer by day, solo game dev by night. This GitHub is my pl
 ### About Me
 
 - 📍 Indonesia
-- 💼 Building scalable web/mobile apps with .NET, C#, Angular, Golang, Azure/AWS
+- 💼 Building scalable web/mobile apps with .NET, C#, Golang, Angular, React, Azure/AWS, Xamarin/MAUI, React Native
 - 🎮 Passionate about game dev: Creating lightweight, efficient tools for indie games
 - 🔗 [LinkedIn](https://linkedin.com/in/edwinsyarief) | [Portfolio](https://edwinsyarief.github.io)
 
 ### Skills
 
-- **Languages/Frameworks**: Golang, .NET/C#, PHP, Node.js, Java
+- **Languages/Frameworks**: Golang, .NET/C#, Python, PHP, Node.js, Java
 - **Frontend**: Angular, React, Vue, Svelte
 - **Mobile**: Xamarin, MAUI, React Native
 - **Cloud/Infra**: Azure, AWS, Docker, CI/CD
