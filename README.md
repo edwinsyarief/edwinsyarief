@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="banner.png" alt="Edwin Syarief" width="600">
-</p>
+# Hi, I'm Edwin 👋
 
-# Hi 👋
-
-I am a Senior Full-Stack Developer by day, and a solo game developer by night. This GitHub is my playground for open-source Golang projects, focusing on game engines and tools such as ECS systems and 2D rendering.
+Senior Full-Stack Developer by day, and a solo game developer by night. This GitHub repository serves as my playground for open-source Golang projects, with a focus on game engines and tools, including ECS systems and 2D rendering.
 
 ### About Me
 
